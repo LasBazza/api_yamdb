@@ -25,4 +25,4 @@ API для сервиса YaMDb.
 
 [UlianaVo](https://github.com/UlianaVo) - категории (Categories), жанры (Genres) и произведения (Titles): модели, view и эндпойнты для них.
 
-[LasBazza](https://github.com/LasBazza) - управление пользователями (Auth и Users): система регистрации и аутентификации, права доступа, работа с токеном, система подтверждения e-mail, поля.
+[LasBazza](https://github.com/LasBazza) - управление пользователями (Auth и Users): система регистрации и аутентификации, права доступа, работа с токеном, система подтверждения e-mail.
